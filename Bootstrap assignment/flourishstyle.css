@@ -1,0 +1,6 @@
+html, body{
+    background-image: url("pic/background1.jpg");
+    background-size:auto;
+    color:white;
+    background-repeat: no-repeat;
+}
